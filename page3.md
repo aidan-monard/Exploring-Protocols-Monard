@@ -38,4 +38,8 @@ Summary
 Digital protocols are the backbone of the internet.  
 Without them, none of our digital systems—web browsing, email, streaming, online gaming, texting—would function.
 
+---
 
+Navigation  
+- [⬅️ Back to Page 2](page2.md)  
+- [⬅️ Back to Home](README.md)
