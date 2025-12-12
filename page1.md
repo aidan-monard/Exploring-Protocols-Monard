@@ -34,6 +34,10 @@ Protocols often operate at different layers:
 
 Each layer has its own responsibilities.
 
+---
 
+Navigation  
+- [⬅️ Back to Home](README.md)  
+- [➡️ Continue to Page 2](page2.md)
 
 
