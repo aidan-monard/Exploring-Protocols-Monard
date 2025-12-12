@@ -1,4 +1,4 @@
-# Page 2 — Common Internet Protocols
+Page 2 — Common Internet Protocols
 
 This page explains several important digital protocols that make modern communication possible.
 
