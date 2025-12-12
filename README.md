@@ -13,7 +13,7 @@ This tutorial is created for beginners, especially high school or early college 
 ---
 
 📘 Start the Tutorial  
-- [➡️ Page 1: What Are Digital Protocols?]
-- [➡️ Page 2: Common Internet Protocols]
-- [➡️ Page 3: Why Protocols Matter]
+- Page 1: What Are Digital Protocols?]
+- Page 2: Common Internet Protocols]
+- Page 3: Why Protocols Matter]
 
