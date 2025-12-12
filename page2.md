@@ -32,7 +32,4 @@ FTP (File Transfer Protocol)
 FTP is used for transferring files between a user and a server. It is commonly used for website management, backups, and moving large files across networks.
 
 
-## Navigation  
-- [⬅️ Back to Page 1](page1.md)  
-- [➡️ Continue to Page 3](page3.md)  
-- [⬅️ Back to Home](README.md)
+
